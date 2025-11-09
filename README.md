@@ -234,4 +234,4 @@ Detta projekt är öppen källkod och tillgängligt under MIT-licensen.
 
 
 **Skapad för:** Testautomatisering - Del 2 Inlämningsuppgift  
-**Datum:** November 2025
+**Datum:** December 2025
